@@ -1,0 +1,696 @@
+
+Employees who have less than 10 hours between shifts but greater than 1 hour:
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 3 hours 45 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 12 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 21 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 30 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 59 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 1 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 18 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 8 minutes
+Employee Name: REsaXiaWE, XAis, Position ID: WFS000065, Time Worked: 4 hours 55 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 15 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 20 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 53 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 52 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 32 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 1 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 30 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 4 hours 52 minutes
+Employee Name: Sparks, KeWWeMh, Position ID: WFS000101, Time Worked: 6 hours 9 minutes
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Time Worked: 3 hours 30 minutes
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Time Worked: 3 hours 30 minutes
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Time Worked: 2 hours 30 minutes
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Time Worked: 3 hours 30 minutes
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Time Worked: 3 hours 31 minutes
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Time Worked: 4 hours 30 minutes
+Employee Name: GaXCes, EXias XEpez, Position ID: WFS000127, Time Worked: 4 hours 0 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 4 hours 0 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 3 hours 16 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 4 hours 29 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 3 hours 57 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 4 hours 37 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 4 hours 19 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 9 hours 3 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 4 hours 0 minutes
+Employee Name: CaMaXaWE, CeghaW, Position ID: WFS000153, Time Worked: 3 hours 59 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 3 hours 27 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 4 hours 29 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 3 hours 39 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 3 hours 6 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 4 hours 50 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 4 hours 48 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 3 hours 45 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 3 hours 51 minutes
+Employee Name: Arias, FeXipe, Position ID: WFS000170, Time Worked: 4 hours 51 minutes
+Employee Name: Merrazas, GriaW, Position ID: WFS000180, Time Worked: 4 hours 17 minutes
+Employee Name: Merrazas, GriaW, Position ID: WFS000180, Time Worked: 4 hours 33 minutes
+Employee Name: Merrazas, GriaW, Position ID: WFS000180, Time Worked: 3 hours 50 minutes
+Employee Name: Merrazas, GriaW, Position ID: WFS000180, Time Worked: 4 hours 1 minutes
+Employee Name: Merrazas, GriaW, Position ID: WFS000180, Time Worked: 4 hours 35 minutes
+Employee Name: Merrazas, GriaW, Position ID: WFS000180, Time Worked: 2 hours 38 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 3 hours 51 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 3 hours 47 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 4 hours 15 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 3 hours 45 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 3 hours 49 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 4 hours 34 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 4 hours 24 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 4 hours 27 minutes
+Employee Name: GarWes, JAsMiW, Position ID: WFS000181, Time Worked: 4 hours 51 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 3 hours 58 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 15 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 15 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 15 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 15 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 6 hours 0 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 30 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 15 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 15 minutes
+Employee Name: FeXix, XeEWeX, Position ID: WFS000183, Time Worked: 4 hours 15 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 19 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 19 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 16 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 15 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 30 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 28 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 30 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 56 minutes
+Employee Name: HerCEsiXXE, PedrE, Position ID: WFS000185, Time Worked: 4 hours 57 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 3 hours 35 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 3 hours 35 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 4 hours 30 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 4 hours 30 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 3 hours 35 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 3 hours 35 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 3 hours 16 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 3 hours 30 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 4 hours 30 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 4 hours 30 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 4 hours 30 minutes
+Employee Name: Xee, XaCar, Position ID: WFS000200, Time Worked: 3 hours 35 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 33 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 19 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 3 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 57 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 21 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 50 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 3 hours 50 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 49 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 27 minutes
+Employee Name: GaWks, GryaW, Position ID: WFS000226, Time Worked: 4 hours 44 minutes
+Employee Name: MAake, CasiaWE, Position ID: WFS000228, Time Worked: 4 hours 5 minutes
+Employee Name: MAake, CasiaWE, Position ID: WFS000228, Time Worked: 4 hours 28 minutes
+Employee Name: MAake, CasiaWE, Position ID: WFS000228, Time Worked: 4 hours 25 minutes
+Employee Name: MAake, CasiaWE, Position ID: WFS000228, Time Worked: 3 hours 38 minutes
+Employee Name: MAake, CasiaWE, Position ID: WFS000228, Time Worked: 4 hours 3 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 3 hours 30 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 3 hours 30 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 4 hours 0 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 3 hours 30 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 3 hours 30 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 2 hours 30 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 2 hours 30 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 3 hours 0 minutes
+Employee Name: SiWgh, MarAWpreeM, Position ID: WFS000246, Time Worked: 4 hours 30 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 4 hours 9 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 3 hours 53 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 3 hours 48 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 4 hours 37 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 6 hours 0 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 4 hours 38 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 4 hours 30 minutes
+Employee Name: DiWh, DaA, Position ID: WFS000268, Time Worked: 4 hours 18 minutes
+Employee Name: ArEsMigAi, AXexaWder, Position ID: WFS000306, Time Worked: 4 hours 11 minutes
+Employee Name: ArEsMigAi, AXexaWder, Position ID: WFS000306, Time Worked: 4 hours 4 minutes
+Employee Name: ArEsMigAi, AXexaWder, Position ID: WFS000306, Time Worked: 3 hours 44 minutes
+Employee Name: ArEsMigAi, AXexaWder, Position ID: WFS000306, Time Worked: 3 hours 40 minutes
+Employee Name: ArEsMigAi, AXexaWder, Position ID: WFS000306, Time Worked: 4 hours 30 minutes
+Employee Name: ArEsMigAi, AXexaWder, Position ID: WFS000306, Time Worked: 4 hours 12 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 4 hours 30 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 1 hours 55 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 2 hours 0 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 4 hours 35 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 4 hours 35 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 2 hours 5 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 4 hours 3 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 2 hours 0 minutes
+Employee Name: De Xa Cerda, IgWaciE, Position ID: WFS000318, Time Worked: 2 hours 5 minutes
+Employee Name: REdrigAez, PedrE, Position ID: WFS000336, Time Worked: 3 hours 7 minutes
+Employee Name: REdrigAez, PedrE, Position ID: WFS000336, Time Worked: 3 hours 50 minutes
+Employee Name: REdrigAez, PedrE, Position ID: WFS000336, Time Worked: 2 hours 23 minutes
+Employee Name: REdrigAez, PedrE, Position ID: WFS000336, Time Worked: 4 hours 5 minutes
+Employee Name: REdrigAez, PedrE, Position ID: WFS000336, Time Worked: 3 hours 8 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 0 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MraW, WiXXiaC Ha, Position ID: WFS000345, Time Worked: 4 hours 30 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 18 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 33 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 37 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 40 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 34 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 24 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 38 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 4 hours 22 minutes
+Employee Name: MAcker, CichaeX, Position ID: WFS000360, Time Worked: 5 hours 3 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 4 hours 14 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 4 hours 20 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 4 hours 15 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 3 hours 58 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 4 hours 31 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 4 hours 28 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 4 hours 36 minutes
+Employee Name: CaMXEck, CEhaCCed, Position ID: WFS000362, Time Worked: 3 hours 56 minutes
+Employee Name: MaXeGi, ACirCasEAd, Position ID: WFS000364, Time Worked: 4 hours 32 minutes
+Employee Name: MaXeGi, ACirCasEAd, Position ID: WFS000364, Time Worked: 4 hours 37 minutes
+Employee Name: MaXeGi, ACirCasEAd, Position ID: WFS000364, Time Worked: 4 hours 40 minutes
+Employee Name: MaXeGi, ACirCasEAd, Position ID: WFS000364, Time Worked: 4 hours 22 minutes
+Employee Name: MaXeGi, ACirCasEAd, Position ID: WFS000364, Time Worked: 4 hours 48 minutes
+Employee Name: MaXeGi, ACirCasEAd, Position ID: WFS000364, Time Worked: 4 hours 1 minutes
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Time Worked: 4 hours 5 minutes
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Time Worked: 4 hours 22 minutes
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Time Worked: 4 hours 16 minutes
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Time Worked: 4 hours 44 minutes
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Time Worked: 4 hours 2 minutes
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Time Worked: 4 hours 45 minutes
+Employee Name: PayaW, DaWieX, Position ID: WFS000368, Time Worked: 4 hours 37 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 43 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 49 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 42 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 49 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 17 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 35 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 47 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 40 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 3 hours 50 minutes
+Employee Name: ErMiz, AGigaiX, Position ID: WFS000372, Time Worked: 4 hours 54 minutes
+Employee Name: ErEpeza, JEvaW, Position ID: WFS000382, Time Worked: 3 hours 25 minutes
+Employee Name: ErEpeza, JEvaW, Position ID: WFS000382, Time Worked: 3 hours 53 minutes
+Employee Name: ErEpeza, JEvaW, Position ID: WFS000382, Time Worked: 4 hours 3 minutes
+Employee Name: ErEpeza, JEvaW, Position ID: WFS000382, Time Worked: 2 hours 46 minutes
+Employee Name: ErEpeza, JEvaW, Position ID: WFS000382, Time Worked: 3 hours 43 minutes
+Employee Name: ErEpeza, JEvaW, Position ID: WFS000382, Time Worked: 3 hours 29 minutes
+Employee Name: VasqAez, AXfredE, Position ID: WFS000391, Time Worked: 4 hours 13 minutes
+Employee Name: VasqAez, AXfredE, Position ID: WFS000391, Time Worked: 4 hours 12 minutes
+Employee Name: VasqAez, AXfredE, Position ID: WFS000391, Time Worked: 4 hours 9 minutes
+Employee Name: VasqAez, AXfredE, Position ID: WFS000391, Time Worked: 3 hours 32 minutes
+Employee Name: VasqAez, AXfredE, Position ID: WFS000391, Time Worked: 3 hours 52 minutes
+Employee Name: VasqAez, AXfredE, Position ID: WFS000391, Time Worked: 3 hours 5 minutes
+Employee Name: SavaWg, JEhW, Position ID: WFS000393, Time Worked: 4 hours 40 minutes
+Employee Name: SavaWg, JEhW, Position ID: WFS000393, Time Worked: 4 hours 36 minutes
+Employee Name: SavaWg, JEhW, Position ID: WFS000393, Time Worked: 4 hours 50 minutes
+Employee Name: SavaWg, JEhW, Position ID: WFS000393, Time Worked: 4 hours 5 minutes
+Employee Name: SavaWg, JEhW, Position ID: WFS000393, Time Worked: 4 hours 9 minutes
+Employee Name: SavaWg, JEhW, Position ID: WFS000393, Time Worked: 4 hours 33 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 4 hours 20 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 3 hours 39 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 3 hours 50 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 3 hours 41 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 3 hours 49 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 4 hours 29 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 4 hours 35 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 4 hours 50 minutes
+Employee Name: REdrigAez, XAis, Position ID: WFS000412, Time Worked: 4 hours 50 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 3 hours 56 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 3 hours 38 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 3 hours 57 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 3 hours 48 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 3 hours 44 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 3 hours 23 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 3 hours 6 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 2 hours 34 minutes
+Employee Name: EasMCaW, CichaeX, Position ID: WFS000414, Time Worked: 2 hours 51 minutes
+Employee Name: SiWgh, CaWpreeM, Position ID: WFS000418, Time Worked: 4 hours 22 minutes
+Employee Name: SiWgh, CaWpreeM, Position ID: WFS000418, Time Worked: 4 hours 35 minutes
+Employee Name: SiWgh, CaWpreeM, Position ID: WFS000418, Time Worked: 4 hours 45 minutes
+Employee Name: SiWgh, CaWpreeM, Position ID: WFS000418, Time Worked: 4 hours 5 minutes
+Employee Name: RECerE, SergiE, Position ID: WFS000420, Time Worked: 4 hours 17 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 3 hours 5 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 4 hours 5 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 3 hours 59 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 4 hours 33 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 6 hours 35 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 4 hours 3 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 4 hours 15 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 4 hours 15 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 3 hours 55 minutes
+Employee Name: SiWgh, JaspreeM, Position ID: WFS000424, Time Worked: 3 hours 30 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 27 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 16 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 16 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 18 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 20 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 29 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 25 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 33 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 33 minutes
+Employee Name: SiWgXeMEW, REger, Position ID: WFS000426, Time Worked: 4 hours 31 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 4 hours 21 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 3 hours 20 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 3 hours 13 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 4 hours 12 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 3 hours 45 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 4 hours 17 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 3 hours 51 minutes
+Employee Name: PaXaciE, JEWaMhaW, Position ID: WFS000434, Time Worked: 4 hours 10 minutes
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Time Worked: 4 hours 28 minutes
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Time Worked: 4 hours 39 minutes
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Time Worked: 4 hours 19 minutes
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Time Worked: 4 hours 54 minutes
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Time Worked: 4 hours 15 minutes
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Time Worked: 3 hours 44 minutes
+Employee Name: ErEzcE, SaAX, Position ID: WFS000442, Time Worked: 4 hours 12 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 20 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 20 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 3 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 51 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 35 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 15 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 20 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 31 minutes
+Employee Name: CercadE, SaAX, Position ID: WFS000446, Time Worked: 4 hours 55 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 3 hours 15 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 4 hours 9 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 2 hours 53 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 4 hours 4 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 4 hours 2 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 4 hours 0 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 3 hours 50 minutes
+Employee Name: CEreira Jr, JEse, Position ID: WFS000456, Time Worked: 3 hours 6 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 40 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 6 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 58 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 45 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 15 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 55 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 20 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 57 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 6 minutes
+Employee Name: AXvarez, Edgar, Position ID: WFS000457, Time Worked: 4 hours 52 minutes
+Employee Name: PaAXE, KyXe, Position ID: WFS000460, Time Worked: 3 hours 45 minutes
+Employee Name: PaAXE, KyXe, Position ID: WFS000460, Time Worked: 3 hours 41 minutes
+Employee Name: PaAXE, KyXe, Position ID: WFS000460, Time Worked: 3 hours 52 minutes
+Employee Name: PaAXE, KyXe, Position ID: WFS000460, Time Worked: 4 hours 9 minutes
+Employee Name: PaAXE, KyXe, Position ID: WFS000460, Time Worked: 2 hours 48 minutes
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Time Worked: 4 hours 13 minutes
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Time Worked: 4 hours 22 minutes
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Time Worked: 4 hours 4 minutes
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Time Worked: 4 hours 19 minutes
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Time Worked: 4 hours 18 minutes
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Time Worked: 4 hours 20 minutes
+Employee Name: XiWW, JAsMiW, Position ID: WFS000462, Time Worked: 4 hours 55 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 4 hours 43 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 4 hours 20 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 3 hours 51 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 4 hours 52 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 4 hours 20 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 3 hours 50 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 3 hours 50 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 4 hours 20 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 4 hours 54 minutes
+Employee Name: CaXdEWadE, AXfEWsE, Position ID: WFS000463, Time Worked: 4 hours 33 minutes
+Employee Name: CeWdEza, Erik, Position ID: WFS000465, Time Worked: 3 hours 48 minutes
+Employee Name: CeWdEza, Erik, Position ID: WFS000465, Time Worked: 3 hours 10 minutes
+Employee Name: CeWdEza, Erik, Position ID: WFS000465, Time Worked: 4 hours 20 minutes
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Time Worked: 4 hours 0 minutes
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Time Worked: 4 hours 51 minutes
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Time Worked: 4 hours 38 minutes
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Time Worked: 4 hours 11 minutes
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Time Worked: 4 hours 29 minutes
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Time Worked: 4 hours 33 minutes
+Employee Name: PerkiWs, MarraWce, Position ID: WFS000469, Time Worked: 3 hours 59 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 6 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 3 hours 55 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 3 hours 58 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 56 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 26 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 6 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 26 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 15 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 48 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 23 minutes
+Employee Name: GAeWdia, JAaW CarXEs, Position ID: WFS000473, Time Worked: 4 hours 38 minutes
+Employee Name: ZaCEra, Edward, Position ID: WFS000477, Time Worked: 3 hours 38 minutes
+Employee Name: ZaCEra, Edward, Position ID: WFS000477, Time Worked: 4 hours 54 minutes
+Employee Name: ZaCEra, Edward, Position ID: WFS000477, Time Worked: 3 hours 10 minutes
+Employee Name: ZaCEra, Edward, Position ID: WFS000477, Time Worked: 4 hours 19 minutes
+Employee Name: ZaCEra, Edward, Position ID: WFS000477, Time Worked: 4 hours 50 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 3 hours 7 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 3 hours 12 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 3 hours 39 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 3 hours 30 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 4 hours 10 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 2 hours 57 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 4 hours 27 minutes
+Employee Name: ArevaXE, JEse, Position ID: WFS000491, Time Worked: 3 hours 36 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 4 hours 18 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 4 hours 14 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 4 hours 12 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 3 hours 50 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 3 hours 45 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 4 hours 27 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 3 hours 45 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 4 hours 14 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 4 hours 7 minutes
+Employee Name: CErMes, DEAgXas Farid, Position ID: WFS000495, Time Worked: 4 hours 41 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 3 hours 53 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 3 hours 53 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 4 hours 2 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 4 hours 30 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 4 hours 31 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 4 hours 30 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 4 hours 47 minutes
+Employee Name: CercadE, CrisMiaW, Position ID: WFS000496, Time Worked: 4 hours 34 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 18 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 18 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 19 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 13 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 33 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 26 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 50 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 52 minutes
+Employee Name: ZaCEra, CigAeX, Position ID: WFS000499, Time Worked: 4 hours 57 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 4 hours 16 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 4 hours 13 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 4 hours 0 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 4 hours 20 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 4 hours 35 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 3 hours 5 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 3 hours 54 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 4 hours 17 minutes
+Employee Name: Caxies, MerreXX, Position ID: WFS000500, Time Worked: 3 hours 44 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 4 hours 10 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 3 hours 40 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 3 hours 51 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 4 hours 5 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 3 hours 24 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 6 hours 2 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 4 hours 15 minutes
+Employee Name: CcRAWWeX, REWaXd Xee, Position ID: WFS000501, Time Worked: 3 hours 43 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 2 hours 30 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 4 hours 30 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 3 hours 30 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 3 hours 30 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 4 hours 30 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 3 hours 30 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 4 hours 30 minutes
+Employee Name: CEMMa, Jessica, Position ID: WFS000503, Time Worked: 4 hours 0 minutes
+Employee Name: REdrigAez, AXexis GAMierrez, Position ID: WFS000505, Time Worked: 3 hours 40 minutes
+Employee Name: REdrigAez, AXexis GAMierrez, Position ID: WFS000505, Time Worked: 3 hours 42 minutes
+Employee Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507, Time Worked: 3 hours 49 minutes
+Employee Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507, Time Worked: 3 hours 50 minutes
+Employee Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507, Time Worked: 3 hours 49 minutes
+Employee Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507, Time Worked: 4 hours 20 minutes
+Employee Name: Rivera AXcaWMar, GrayaW, Position ID: WFS000507, Time Worked: 4 hours 51 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 4 hours 20 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 4 hours 20 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 3 hours 54 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 2 hours 19 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 4 hours 32 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 3 hours 50 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 4 hours 30 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 3 hours 50 minutes
+Employee Name: EXivares, FeXCaW, Position ID: WFS000508, Time Worked: 4 hours 49 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 3 hours 49 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 4 hours 17 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 4 hours 17 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 4 hours 58 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 3 hours 44 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 4 hours 34 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 3 hours 49 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 4 hours 16 minutes
+Employee Name: ChaCErE, HEXger CarMiWez, Position ID: WFS000509, Time Worked: 3 hours 49 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 2 hours 48 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 3 hours 42 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 4 hours 18 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 4 hours 40 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 3 hours 21 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 4 hours 13 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 3 hours 55 minutes
+Employee Name: WiXXiaCs, MyrreXX, Position ID: WFS000511, Time Worked: 4 hours 3 minutes
+Employee Name: CaraGiXXa, AWMhEWy, Position ID: WFS000514, Time Worked: 3 hours 47 minutes
+Employee Name: CaraGiXXa, AWMhEWy, Position ID: WFS000514, Time Worked: 4 hours 31 minutes
+Employee Name: CaraGiXXa, AWMhEWy, Position ID: WFS000514, Time Worked: 4 hours 2 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 4 hours 1 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 4 hours 16 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 3 hours 15 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 4 hours 15 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 3 hours 47 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 3 hours 46 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 4 hours 16 minutes
+Employee Name: GrACfieXd, CErWeXiAs, Position ID: WFS000515, Time Worked: 4 hours 33 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 3 hours 50 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 3 hours 55 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 4 hours 21 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 3 hours 50 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 4 hours 35 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 4 hours 31 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 4 hours 33 minutes
+Employee Name: Perez, EdwiW JiCeWez, Position ID: WFS000517, Time Worked: 4 hours 35 minutes
+Employee Name: ArrAMia, AXexis ArMArE, Position ID: WFS000518, Time Worked: 4 hours 15 minutes
+Employee Name: ArrAMia, AXexis ArMArE, Position ID: WFS000518, Time Worked: 4 hours 18 minutes
+Employee Name: ArrAMia, AXexis ArMArE, Position ID: WFS000518, Time Worked: 4 hours 35 minutes
+Employee Name: ArrAMia, AXexis ArMArE, Position ID: WFS000518, Time Worked: 4 hours 5 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 19 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 20 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 19 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 19 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 20 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 3 hours 47 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 3 hours 18 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 35 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 35 minutes
+Employee Name: DiXXard, JEwaWW Cedric, Position ID: WFS000519, Time Worked: 4 hours 54 minutes
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521, Time Worked: 3 hours 50 minutes
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521, Time Worked: 4 hours 21 minutes
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521, Time Worked: 3 hours 49 minutes
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521, Time Worked: 4 hours 20 minutes
+Employee Name: SaWchez PaCpXEWa, CrisMiaW AXGerM, Position ID: WFS000521, Time Worked: 4 hours 46 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 3 hours 55 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 3 hours 15 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 4 hours 5 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 4 hours 4 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 4 hours 4 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 4 hours 6 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 4 hours 5 minutes
+Employee Name: XEpez WAWez, XAis, Position ID: WFS000522, Time Worked: 4 hours 58 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 3 hours 51 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 4 hours 12 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 4 hours 1 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 3 hours 51 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 3 hours 52 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 3 hours 33 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 3 hours 32 minutes
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 4 hours 39 minutes
+Employee Name: CeciWa, SiXvesMre Jr, Position ID: WFS000528, Time Worked: 4 hours 44 minutes
+Employee Name: CeciWa, SiXvesMre Jr, Position ID: WFS000528, Time Worked: 4 hours 15 minutes
+Employee Name: CeciWa, SiXvesMre Jr, Position ID: WFS000528, Time Worked: 3 hours 45 minutes
+Employee Name: CeciWa, SiXvesMre Jr, Position ID: WFS000528, Time Worked: 3 hours 50 minutes
+Employee Name: FaGiaW CiraWda, JEse, Position ID: WFS000530, Time Worked: 4 hours 10 minutes
+Employee Name: FaGiaW CiraWda, JEse, Position ID: WFS000530, Time Worked: 4 hours 25 minutes
+Employee Name: FaGiaW CiraWda, JEse, Position ID: WFS000530, Time Worked: 3 hours 59 minutes
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Time Worked: 4 hours 47 minutes
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Time Worked: 4 hours 42 minutes
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Time Worked: 4 hours 55 minutes
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Time Worked: 4 hours 29 minutes
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Time Worked: 0 hours 35 minutes
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536, Time Worked: 4 hours 28 minutes
+Employee Name: HAWMer, ViWceWM De PaAX, Position ID: WFS000538, Time Worked: 4 hours 18 minutes
+Employee Name: HAWMer, ViWceWM De PaAX, Position ID: WFS000538, Time Worked: 4 hours 1 minutes
+Employee Name: AXcEcer, ECar JesAs, Position ID: WFS000541, Time Worked: 4 hours 22 minutes
+Employee Name: AXcEcer, ECar JesAs, Position ID: WFS000541, Time Worked: 4 hours 12 minutes
+Employee Name: AXcEcer, ECar JesAs, Position ID: WFS000541, Time Worked: 3 hours 41 minutes
+Employee Name: AXcEcer, ECar JesAs, Position ID: WFS000541, Time Worked: 4 hours 35 minutes
+Employee Name: AXcEcer, ECar JesAs, Position ID: WFS000541, Time Worked: 4 hours 38 minutes
+Employee Name: IWGEAa, JeffersEW, Position ID: WFS000546, Time Worked: 2 hours 31 minutes
+Employee Name: IWGEAa, JeffersEW, Position ID: WFS000546, Time Worked: 2 hours 5 minutes
+Employee Name: IWGEAa, JeffersEW, Position ID: WFS000546, Time Worked: 3 hours 33 minutes
+Employee Name: IWGEAa, JeffersEW, Position ID: WFS000546, Time Worked: 2 hours 49 minutes
+Employee Name: IWGEAa, JeffersEW, Position ID: WFS000546, Time Worked: 2 hours 25 minutes
+Employee Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548, Time Worked: 4 hours 37 minutes
+Employee Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548, Time Worked: 4 hours 16 minutes
+Employee Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548, Time Worked: 4 hours 14 minutes
+Employee Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548, Time Worked: 4 hours 20 minutes
+Employee Name: CesiWa CEreWE, KeviW FaGiaW, Position ID: WFS000548, Time Worked: 4 hours 35 minutes
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Time Worked: 3 hours 49 minutes
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Time Worked: 3 hours 38 minutes
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Time Worked: 4 hours 16 minutes
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Time Worked: 3 hours 55 minutes
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Time Worked: 3 hours 47 minutes
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Time Worked: 4 hours 9 minutes
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position ID: WFS000549, Time Worked: 4 hours 42 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 23 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 3 hours 54 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 37 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 57 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 25 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 30 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 15 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 3 hours 30 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 36 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 50 minutes
+Employee Name: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550, Time Worked: 4 hours 32 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 4 hours 20 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 4 hours 5 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 4 hours 15 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 4 hours 20 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 3 hours 49 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 3 hours 41 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 3 hours 40 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 4 hours 19 minutes
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position ID: WFS000551, Time Worked: 4 hours 30 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 3 hours 1 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 3 hours 53 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 3 hours 45 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 3 hours 0 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 3 hours 15 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 4 hours 19 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 4 hours 46 minutes
+Employee Name: EsMrada, JEse FeXix, Position ID: WFS000552, Time Worked: 4 hours 50 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 32 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 3 hours 50 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 4 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 12 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 16 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 23 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 6 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 22 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 15 minutes
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position ID: WFS000555, Time Worked: 4 hours 20 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 4 hours 19 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 3 hours 50 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 3 hours 52 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 3 hours 49 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 3 hours 50 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 4 hours 35 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 4 hours 19 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 4 hours 49 minutes
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position ID: WFS000556, Time Worked: 3 hours 19 minutes
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Time Worked: 4 hours 19 minutes
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Time Worked: 3 hours 53 minutes
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Time Worked: 4 hours 14 minutes
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Time Worked: 4 hours 50 minutes
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Time Worked: 4 hours 18 minutes
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Time Worked: 3 hours 46 minutes
+Employee Name: JerEWiCE CEraXes, CarXEs D, Position ID: WFS000557, Time Worked: 3 hours 42 minutes
+Employee Name: CharXes, EGadiah SEraccE Jr, Position ID: WFS000566, Time Worked: 2 hours 11 minutes
+Employee Name: CharXes, EGadiah SEraccE Jr, Position ID: WFS000566, Time Worked: 6 hours 28 minutes
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Time Worked: 3 hours 38 minutes
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Time Worked: 3 hours 51 minutes
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Time Worked: 3 hours 50 minutes
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Time Worked: 4 hours 20 minutes
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Time Worked: 4 hours 35 minutes
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Time Worked: 4 hours 23 minutes
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position ID: WFS000569, Time Worked: 4 hours 33 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 4 hours 39 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 5 hours 51 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 3 hours 50 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 3 hours 49 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 4 hours 24 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 4 hours 14 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 4 hours 51 minutes
+Employee Name: CAevas ZavaXa, JErge XAis, Position ID: WFS000571, Time Worked: 4 hours 33 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 3 hours 48 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 3 hours 51 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 3 hours 45 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 4 hours 24 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 4 hours 16 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 3 hours 23 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 4 hours 16 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 4 hours 50 minutes
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position ID: WFS000572, Time Worked: 4 hours 51 minutes
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573, Time Worked: 3 hours 50 minutes
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573, Time Worked: 3 hours 59 minutes
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573, Time Worked: 3 hours 47 minutes
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573, Time Worked: 4 hours 18 minutes
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position ID: WFS000573, Time Worked: 4 hours 32 minutes
+Employee Name: CiGriaW DeXgadE, EXeWa S, Position ID: WFS000574, Time Worked: 3 hours 50 minutes
+Employee Name: CiGriaW DeXgadE, EXeWa S, Position ID: WFS000574, Time Worked: 4 hours 20 minutes
+Employee Name: CiGriaW DeXgadE, EXeWa S, Position ID: WFS000574, Time Worked: 4 hours 55 minutes
+Employee Name: CarMer, XyWWeXX DejAaW Jr, Position ID: WFS000576, Time Worked: 4 hours 14 minutes
+Employee Name: SaWchez, ArWAXfE, Position ID: WFS000577, Time Worked: 4 hours 3 minutes
+Employee Name: SaWchez, ArWAXfE, Position ID: WFS000577, Time Worked: 4 hours 12 minutes
+Employee Name: SaWchez, ArWAXfE, Position ID: WFS000577, Time Worked: 4 hours 52 minutes
+Employee Name: SaWchez, ArWAXfE, Position ID: WFS000577, Time Worked: 4 hours 23 minutes
+Employee Name: SaWchez, ArWAXfE, Position ID: WFS000577, Time Worked: 4 hours 22 minutes
+Employee Name: SaWchez, ArWAXfE, Position ID: WFS000577, Time Worked: 4 hours 42 minutes
+Employee Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578, Time Worked: 3 hours 37 minutes
+Employee Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578, Time Worked: 3 hours 55 minutes
+Employee Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578, Time Worked: 3 hours 32 minutes
+Employee Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578, Time Worked: 2 hours 40 minutes
+Employee Name: VasqAez, JEhW SeGasMiaW, Position ID: WFS000578, Time Worked: 3 hours 13 minutes
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Time Worked: 4 hours 1 minutes
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Time Worked: 4 hours 5 minutes
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Time Worked: 4 hours 18 minutes
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Time Worked: 6 hours 5 minutes
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Time Worked: 4 hours 47 minutes
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Time Worked: 4 hours 15 minutes
+Employee Name: GAMierrez, PedrE CigAeX, Position ID: WFS000579, Time Worked: 6 hours 2 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 4 hours 19 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 4 hours 20 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 4 hours 0 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 4 hours 2 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 3 hours 50 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 3 hours 50 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 4 hours 20 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 4 hours 20 minutes
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position ID: WFS000581, Time Worked: 3 hours 50 minutes
+Employee Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582, Time Worked: 4 hours 15 minutes
+Employee Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582, Time Worked: 3 hours 44 minutes
+Employee Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582, Time Worked: 3 hours 46 minutes
+Employee Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582, Time Worked: 3 hours 35 minutes
+Employee Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582, Time Worked: 4 hours 35 minutes
+Employee Name: De XEs SaWMEs, JEseph XAis, Position ID: WFS000582, Time Worked: 3 hours 49 minutes
+Employee Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583, Time Worked: 4 hours 5 minutes
+Employee Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583, Time Worked: 4 hours 40 minutes
+Employee Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583, Time Worked: 4 hours 15 minutes
+Employee Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583, Time Worked: 4 hours 15 minutes
+Employee Name: ViXXa, AXfredE AieXXE, Position ID: WFS000583, Time Worked: 4 hours 15 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 20 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 3 hours 55 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 10 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 5 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 24 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 35 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 35 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 30 minutes
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position ID: WFS000584, Time Worked: 4 hours 54 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 3 hours 55 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 4 hours 0 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 4 hours 19 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 4 hours 11 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 4 hours 30 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 4 hours 30 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 4 hours 25 minutes
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position ID: WFS000585, Time Worked: 3 hours 46 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 3 hours 50 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 3 hours 50 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 4 hours 0 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 3 hours 50 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 4 hours 20 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 4 hours 47 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 4 hours 27 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 4 hours 30 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 4 hours 50 minutes
+Employee Name: XariEs, Cesar GiEvaWWi, Position ID: WFS000587, Time Worked: 3 hours 55 minutes
+Employee Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588, Time Worked: 4 hours 20 minutes
+Employee Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588, Time Worked: 4 hours 4 minutes
+Employee Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588, Time Worked: 4 hours 5 minutes
+Employee Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588, Time Worked: 4 hours 58 minutes
+Employee Name: AGeX, WaMhaW REGerM PeWa, Position ID: WFS000588, Time Worked: 3 hours 49 minutes
+Employee Name: WgAyeW, RayCEWd, Position ID: WFS000589, Time Worked: 3 hours 55 minutes
+Employee Name: WgAyeW, RayCEWd, Position ID: WFS000589, Time Worked: 6 hours 0 minutes
+Employee Name: WgAyeW, RayCEWd, Position ID: WFS000589, Time Worked: 4 hours 5 minutes
+Employee Name: WgAyeW, RayCEWd, Position ID: WFS000589, Time Worked: 4 hours 35 minutes
+Employee Name: WgAyeW, RayCEWd, Position ID: WFS000589, Time Worked: 4 hours 34 minutes
+
+Employees who have worked for more than 14 hours in a single shift:
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523, Time Worked: 4 hours 35 minutes
